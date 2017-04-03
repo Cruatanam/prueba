@@ -1,2 +1,2 @@
-# prueba
-*Rep de prueba*
+# prueba2
+*Rep. de prueba*
